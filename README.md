@@ -12,3 +12,5 @@
   * **Arithmetic Operations and Evaluation:** The calculator's core functionality includes basic arithmetic operations such as addition, subtraction, multiplication, and division. The eval() function is used to evaluate the expression and perform the calculations.
   * **Lambda Functions:** Lambda functions are used to associate specific functions with button clicks as their command attribute in a concise manner.
 # Gui Python Calculator Output
+![calculator](https://github.com/Tolusuri-prathyusha/calculator/assets/113997379/ffba4d8f-ad4a-4155-8480-846a886b1692)
+
